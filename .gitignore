@@ -1,0 +1,6 @@
+node_modules 
+.git
+package-lock.json
+lighthouse-report.json
+broken-links.json
+failed-posts.json
