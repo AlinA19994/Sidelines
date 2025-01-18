@@ -1,4 +1,4 @@
-# Javascript Playwright Automation Project
+# Javascript & Playwright Automation Project
 
 ## This Project Validates Website Analysis and API Retrieval Data
 
