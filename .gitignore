@@ -1,5 +1,6 @@
 node_modules 
 .git
+.gitattributes
 package-lock.json
 lighthouse-report.json
 broken-links.json
