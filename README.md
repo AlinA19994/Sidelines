@@ -26,7 +26,7 @@ node lighthouse.js
 ```
 
 ### 04.
-Monitor the console log output, lighthouse-report.json the broken-links.json files.
+Monitor the console log output, lighthouse-report.json and the broken-links.json files.
 
 ### 2. API Data Retrieval Task
 
